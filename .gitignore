@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+*.log
+*SAUVEGARDE*.json
+*sauvegarde*.json
+.DS_Store
+Thumbs.db
